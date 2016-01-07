@@ -1,10 +1,11 @@
 git clone -- given a url it makes a local copy of a repo
-git remote -v -- shows us the existing branches on our respository
+git remote -v -- shows us the url/repository that our current repo is aware of
 git branch -- allows us to keep code separated based on what we are trying to develop
 got branch -a -- shows is the existing branches on our repository
 git checkout
 git status
-git add
-git config
-git commit -a
-git push
+git add -- lets us add new files to be tracked by git to our repo
+git commit -a -- saves all of our changes on the local computer
+git push -- this will send our local commits to our default remo$
+git service (eg gut hub.)
+git pull -- check the remote server for new commits. If there are then this command will fetch (git fetch) then it will
