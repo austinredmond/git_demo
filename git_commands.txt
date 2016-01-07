@@ -9,3 +9,7 @@ git commit -a -- saves all of our changes on the local computer
 git push -- this will send our local commits to our default remo$
 git service (eg gut hub.)
 git pull -- check the remote server for new commits. If there are then this command will fetch (git fetch) then it will
+git mv -- moves things
+git rm -- removes file
+git log -- shows unqiue commit identifier
+
